@@ -7,7 +7,7 @@
 
 ## SIH26-A0H-T285
 ### Team Details
-#### **Team Name** <<The Invictus>> <br/>
+#### **Team Name <<The Invictus>> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
