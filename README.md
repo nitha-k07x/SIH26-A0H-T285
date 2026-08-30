@@ -34,11 +34,11 @@
 * **Problem Statement ID:SIH26025
 * **Problem Statement Title: Development of an AI-enabled Low Cost Real Time Mine Subsidence Monitoring, Prediction and Early Warning System for Underground Coal Mines in India
 * **Theme / Category: Smart Automation/Hardware
-* **Ministry / Organization:**, Smart Automation
+* ** Organization:**, Smart Automation
 
 #### PS#2
 
 * **Problem Statement ID:SIH26104
 * **Problem Statement Title: AI-Powered Real-Time Detection and Prevention of Voice Cloning Impersonation Attacks
 * **Theme / Category: Blockchain & Cybersecurity/Software
-* **Ministry / Organization:**, All India Council for Technical Education (AICTE)
+* **Ministry **, All India Council for Technical Education (AICTE)
